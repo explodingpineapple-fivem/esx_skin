@@ -1,7 +1,7 @@
 # esx_skin
 
 ## Requirements
-- [skinchanger](https://github.com/explodingpineapple-fivem/esx_skin)
+- [skinchanger](https://github.com/ESX-Org/skinchanger)
 
 ## Download & Installation
 
