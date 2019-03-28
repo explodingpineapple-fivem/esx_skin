@@ -1,23 +1,23 @@
 # esx_skin
 
 ## Requirements
-- [skinchanger](https://github.com/ESX-Org/skinchanger)
+- [skinchanger](https://github.com/explodingpineapple-fivem/esx_skin)
 
 ## Download & Installation
 
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
 ```
-fvm install --save --folder=esx esx-org/esx_skin
+fvm install --save --folder=explodingpineapple-fivem/esx_skin
 ```
 
 ### Using Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_skin [esx]/esx_skin
+git clone https://github.com/explodingpineapple-fivem/esx_skin [esx]/esx_skin
 ```
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_skin/archive/master.zip
+- Download https://github.com/explodingpineapple-fivem/esx_skin/archive/master.zip
 - Put it in the `[esx]` directory
 
 ## Installation
